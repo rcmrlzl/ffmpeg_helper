@@ -16,7 +16,7 @@ dependencies:
   archive: ^3.3.7
   ffmpeg_kit_flutter_min_gpl: ^5.1.0
   package_info_plus: ^4.1.0
-  path: ^1.8.3
+  path: 1.8.2
   path_provider:
    git:
      url: "https://gitee.com/openharmony-sig/flutter_packages.git"
